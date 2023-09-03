@@ -31,4 +31,4 @@ export default function WeatherTemperature(props) {
     }
 }
 
-//https://api.openweathermap.org/data/3.0/onecall?lat=74&lon=40.7&exclude={part}&appid={API key}//
+//https://api.openweathermap.org/data/3.0/onecall?lat=74&lon=40.7&&appid=5da7b2dc058f07286fea39c4cee516a3//
